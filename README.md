@@ -4,7 +4,7 @@ A presentation for engineers with minimal background in biology to understand
 the structure, mechanisms and clinical development of base editing technology.
 
 A selection of methods and data from Fiumara et. al (_Genotoxic effects of base
-and prime editing in human hematopoietic stem cells_.) is covered in depth,
+and prime editing in human hematopoietic stem cells_ [^1]) is covered in depth,
 along with a motivation for the experimental design.
 
 ![bg w:600](paper.png)
