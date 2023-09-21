@@ -18,4 +18,8 @@ along with a motivation for the experimental design.
 - Defining "Genotoxicity"
 - Designing an experiment to evaluate BE behavior
 
+Slides can be found in `presentation.md`.
+
+Was presented to the Latch engineering team on September 20th, 2023.
+
 [^1]: Fiumara, M., Ferrari, S., Omer-Javed, A. et al. Genotoxic effects of base and prime editing in human hematopoietic stem cells. Nat Biotechnol (2023). https://doi.org/10.1038/s41587-023-01915-4

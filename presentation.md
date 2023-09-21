@@ -13,6 +13,8 @@ style: |
 
 ---
 
+This is a presentation given to the engineering team at [LatchBio](latch.bio).
+
 # Overview
 
 - Introduction to gene editing tools
@@ -21,7 +23,6 @@ style: |
 - State of BEs in the clinic
 - Defining "Genotoxicity"
 - Designing an experiment to evaluate BE behavior
-
 
 ---
 
